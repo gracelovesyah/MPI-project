@@ -1,0 +1,62 @@
+Q1:  The number of tweets in the various capital cities
+                Greater Capital City  Number of Tweets Made
+           2gmel (Greater Melbourne)                2286891
+              1gsyd (Greater Sydney)                2218396
+            3gbri (Greater Brisbane)                 859994
+               5gper (Greater Perth)                 589322
+            4gade (Greater Adelaide)                 465908
+8acte (Australian Capital Territory)                 202646
+              6ghob (Greater Hobart)                  90816
+              7gdar (Greater Darwin)                  46357
+           9oter (Other Territories)                    182
+
+Q2:  Top 10 tweeters (in terms of the number of tweets made)
+Rank           Author Id  Number of Tweets Made
+  #1 1498063511204761601                  68477
+  #2 1089023364973219840                  28128
+  #3  826332877457481728                  27718
+  #4 1250331934242123776                  25350
+  #5 1423662808311287813                  21034
+  #6 1183144981252280322                  20765
+  #7 1270672820792508417                  20503
+  #8  820431428835885059                  20063
+  #9  778785859030003712                  19403
+ #10 1104295492433764353                  18781
+
+Q3:  Tweeters that have tweeted in the most Greater Capital cities and the number of times they have tweeted from those locations
+Rank           Author Id                                            Number of Unique City Locations and #Tweets
+  #1 1429984556451389440         8 (#1921 tweets - 1880gmel, 13acte, 11gsyd, 7gper, 6gbri, 2gade, 1gdar, 1ghob)
+  #2            17285408       8 (#1208 tweets - 1060gsyd, 60gmel, 40gbri, 23acte, 11ghob, 7gper, 4gdar, 3gade)
+  #3  702290904460169216 8 (#1177 tweets - 327gsyd, 252gmel, 220gbri, 151gper, 119gade, 46acte, 42ghob, 20gdar)
+  #4            87188071       8 (#401 tweets - 116gsyd, 86gmel, 65gbri, 51gper, 34acte, 29gade, 15ghob, 5gdar)
+  #5  774694926135222272       8 (#272 tweets - 38gmel, 37gsyd, 37gbri, 36ghob, 34acte, 34gper, 28gdar, 28gade)
+  #6          1361519083           8 (#266 tweets - 193gdar, 36gmel, 18gsyd, 9gade, 6acte, 2ghob, 1gper, 1gbri)
+  #7           502381727            8 (#250 tweets - 214gmel, 10acte, 8ghob, 8gbri, 4gade, 3gper, 2gsyd, 1gdar)
+  #8  921197448885886977          8 (#208 tweets - 58gmel, 49gsyd, 37gbri, 28gper, 24gade, 7acte, 4ghob, 1gdar)
+  #9           601712763         8 (#146 tweets - 44gsyd, 39gmel, 19gade, 14gper, 11gbri, 10acte, 8ghob, 1gdar)
+ #10          2647302752             8 (#80 tweets - 32gbri, 16gmel, 13gsyd, 5ghob, 4acte, 4gper, 3gdar, 3gade)
+
+
+Job ID           : 46270744
+Cluster          : spartan
+User/Project     : jonghop/comp90024
+Nodes            : 1
+Wall-clock time  : 00:06:48 / 12:00:00
+
+Displaying overall resources usage from 2023-04-11 12:37:27 to 2023-04-11 12:44:15:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-bm024 : 
+                CPU# 1    : 96.3   (  91.8 /   4.5 /   0.0 /   3.7 ) 
+
+
+Allocated CPUs            : 1    
+  CPUs with usage <25%    : 0    
+  CPUs with usage <50%    : 0    
+  CPUs with usage >50%    : 1    
+
+Memory used (RAM)         : 97.1%  [3884MB of 4000MB]
+
+--------------------------------------------
+
